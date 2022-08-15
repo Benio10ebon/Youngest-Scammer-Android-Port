@@ -1,0 +1,41 @@
+{
+	"storyName": "youngest scammer!!",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"bf",
+		""
+	],
+	"songs": [
+		[
+			"Scam",
+			"scam",
+			[
+				186,
+				33,
+				253
+			]
+		],
+		[
+			"Cuss Word",
+			"fuck",
+			[
+				146,
+				173,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Week youngest scammer",
+	"hiddenUntilUnlocked": false
+}
